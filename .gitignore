@@ -1,0 +1,11 @@
+# 忽略Node.js依赖文件
+node_modules/
+frontend/node_modules/
+# 忽略Python虚拟环境
+backend/_pycache_/
+backend/venv/
+# 忽略VSCode配置文件
+.vscode/
+# 忽略其他临时文件
+*.log
+*.tmp
